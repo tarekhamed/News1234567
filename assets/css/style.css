@@ -117,6 +117,9 @@ body{
     
 }
 @media(max-width:767px){
+      .navbar{
+        position: relative;
+    }
     .navbar-nav .nav-item{
 
         width: 100%;
